@@ -1,0 +1,14 @@
+{
+  "name": "Org Chart Visualization",
+  "description": "A horizontal organizational chart using Google Charts.",
+  "script": "https://your-host-url.com/orgchart.js",
+  "data": {
+    "defaultData": [
+      ["Alice", "Bob"],
+      ["Bob", "Carol"],
+      ["Carol", null],
+      ["Dave", "Alice"],
+      ["Eve", "Bob"]
+    ]
+  }
+}
