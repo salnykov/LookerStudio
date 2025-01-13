@@ -1,7 +1,7 @@
 {
   "name": "Org Chart Visualization",
   "description": "A horizontal organizational chart using Google Charts.",
-  "script": "https://github.com/salnykov/LookerStudio/blob/main/Orgchart.js",
+  "script": "https://raw.githubusercontent.com/salnykov/LookerStudio/main/Orgchart.js",
   "data": {
     "defaultData": [
       ["Alice", "Bob"],
